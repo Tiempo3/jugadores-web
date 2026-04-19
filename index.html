@@ -28,6 +28,19 @@ alert("ID detectado: " + id);
 if (id) {
   document.getElementById("nombre").textContent = "Jugador ID: " + id;
 }
-</script> 
+<script>
+const params = new URLSearchParams(window.location.search);
+const id = params.get("id");
+
+console.log("ID detectado:", id);
+
+const nombre = document.getElementById("nombre");
+
+if (nombre) {
+  nombre.textContent = "Jugador ID: " + id;
+} else {
+  alert("NO ENCUENTRO EL ELEMENTO 'nombre'");
+}
+</script>
 </body>
 </html>
