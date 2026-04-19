@@ -12,6 +12,13 @@
 <p id="carnet">Carnet: ---</p>
 
 <img id="foto" width="150">
+<script>
+const params = new URLSearchParams(window.location.search);
+const id = params.get("id");
 
+if (id) {
+  document.getElementById("nombre").textContent = "Jugador ID: " + id;
+}
+</script>
 </body>
 </html>
