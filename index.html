@@ -19,6 +19,15 @@ const id = params.get("id");
 if (id) {
   document.getElementById("nombre").textContent = "Jugador ID: " + id;
 }
-</script>
+ <script>
+const params = new URLSearchParams(window.location.search);
+const id = params.get("id");
+
+alert("ID detectado: " + id);
+
+if (id) {
+  document.getElementById("nombre").textContent = "Jugador ID: " + id;
+}
+</script> 
 </body>
 </html>
