@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ficha Jugador</title>
+</head>
+<body>
 
+<h1>Ficha del Jugador</h1>
+
+<p id="nombre">Nombre: ---</p>
+<p id="dni">DNI: ---</p>
+<p id="carnet">Carnet: ---</p>
+
+<img id="foto" width="150">
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const id = params.get("id");
+
+fetch("jugadores.json")
+  .then(response => response.json())
+  .then(data => {
+    const jugador = data.find(j => j.id == id);
+
+    if (jugador) {
+      document.getElementById("nombre").textContent = "Nombre: " + jugador.nombre;
+      document.getElementById("dni").textContent = "DNI: " + jugador.dni;
+      document.getElementById("carnet").textContent = "Carnet: " + jugador.carnet;
+      document.getElementById("foto").src = jugador.foto;
+    } else {
+      document.getElementById("nombre").textContent = "Jugador no encontrado";
+    }
+  });
+</script>
+
+</body>
+</html>
