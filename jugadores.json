@@ -1,1 +1,332 @@
-
+[
+  {
+    "id": 176,
+    "apellido_nombre": "ALVAREZ MARCIAL",
+    "dni": "21491912",
+    "carnet": "505"
+  },
+  {
+    "id": 177,
+    "apellido_nombre": "ARAYA WALTER",
+    "dni": "21666373",
+    "carnet": "539"
+  },
+  {
+    "id": 178,
+    "apellido_nombre": "ARRIMADA CLAUDIO",
+    "dni": "17279653",
+    "carnet": "593"
+  },
+  {
+    "id": 179,
+    "apellido_nombre": "BARANOVSKY SANDRO",
+    "dni": "18129164",
+    "carnet": "369"
+  },
+  {
+    "id": 180,
+    "apellido_nombre": "CANO DARDO",
+    "dni": "18128914",
+    "carnet": "503"
+  },
+  {
+    "id": 181,
+    "apellido_nombre": "CEJAS GUILLERMO",
+    "dni": "20316956",
+    "carnet": "364"
+  },
+  {
+    "id": 182,
+    "apellido_nombre": "CORREA LUIS",
+    "dni": "13165338",
+    "carnet": "352"
+  },
+  {
+    "id": 183,
+    "apellido_nombre": "DEL RIO SERGIO",
+    "dni": "20061581",
+    "carnet": "502"
+  },
+  {
+    "id": 184,
+    "apellido_nombre": "DOPAZO RAUL",
+    "dni": "17235425",
+    "carnet": "362"
+  },
+  {
+    "id": 185,
+    "apellido_nombre": "FUENTES MARIO",
+    "dni": "20903010",
+    "carnet": "357"
+  },
+  {
+    "id": 186,
+    "apellido_nombre": "FUENTES JORGE RENE",
+    "dni": "22315277",
+    "carnet": "584"
+  },
+  {
+    "id": 187,
+    "apellido_nombre": "GARRIDO JORGE",
+    "dni": "18363191",
+    "carnet": "484"
+  },
+  {
+    "id": 188,
+    "apellido_nombre": "GUERRERO SERGIO",
+    "dni": "18249741",
+    "carnet": "504"
+  },
+  {
+    "id": 189,
+    "apellido_nombre": "JIMENEZ GUSTAVO",
+    "dni": "21527335",
+    "carnet": "337"
+  },
+  {
+    "id": 190,
+    "apellido_nombre": "LEGUIZAMON FABIAN",
+    "dni": "18557399",
+    "carnet": "363"
+  },
+  {
+    "id": 191,
+    "apellido_nombre": "MEDINA JUAN RAMON",
+    "dni": "16841521",
+    "carnet": "356"
+  },
+  {
+    "id": 192,
+    "apellido_nombre": "MORALES CESAR",
+    "dni": "18250387",
+    "carnet": "360"
+  },
+  {
+    "id": 193,
+    "apellido_nombre": "RETAMALES HUGO",
+    "dni": "17986650",
+    "carnet": "419"
+  },
+  {
+    "id": 194,
+    "apellido_nombre": "ROA NESTOR",
+    "dni": "20903253",
+    "carnet": "355"
+  },
+  {
+    "id": 195,
+    "apellido_nombre": "SABANDO HECTOR",
+    "dni": "18128948",
+    "carnet": "483"
+  },
+  {
+    "id": 196,
+    "apellido_nombre": "SEPULVEDA JOAQUIN",
+    "dni": "22601212",
+    "carnet": "336"
+  },
+  {
+    "id": 197,
+    "apellido_nombre": "URIBE MARCELINO",
+    "dni": "18128568",
+    "carnet": "365"
+  },
+  {
+    "id": 198,
+    "apellido_nombre": "VELEZ GUSTAVO",
+    "dni": "22271397",
+    "carnet": "368"
+  },
+  {
+    "id": 199,
+    "apellido_nombre": "YEFILAF GUILLERMO",
+    "dni": "21739456",
+    "carnet": "359"
+  },
+  {
+    "id": 200,
+    "apellido_nombre": "ZUÑIGA JESUS",
+    "dni": "16817896",
+    "carnet": "358"
+  },
+  {
+    "id": 201,
+    "apellido_nombre": "ACOSTA UBALDO",
+    "dni": "17673513",
+    "carnet": "184"
+  },
+  {
+    "id": 202,
+    "apellido_nombre": "ANDERETE LEONARDO",
+    "dni": "16521116",
+    "carnet": "253"
+  },
+  {
+    "id": 203,
+    "apellido_nombre": "ANGULO LUIS",
+    "dni": "20903507",
+    "carnet": "400"
+  },
+  {
+    "id": 204,
+    "apellido_nombre": "ARANGO CRISTIAN",
+    "dni": "21555703",
+    "carnet": "001"
+  },
+  {
+    "id": 205,
+    "apellido_nombre": "BIEDMA EDUARDO",
+    "dni": "16250473",
+    "carnet": "403"
+  },
+  {
+    "id": 206,
+    "apellido_nombre": "CICERONE SERGIO",
+    "dni": "20691643",
+    "carnet": "302"
+  },
+  {
+    "id": 207,
+    "apellido_nombre": "DE LA CRUZ ROBERTO",
+    "dni": "16521502",
+    "carnet": "228"
+  },
+  {
+    "id": 208,
+    "apellido_nombre": "DIOMEDI SERGIO",
+    "dni": "16170696",
+    "carnet": "129"
+  },
+  {
+    "id": 209,
+    "apellido_nombre": "ECHEVERRIA WALTER",
+    "dni": "22900063",
+    "carnet": "142"
+  },
+  {
+    "id": 210,
+    "apellido_nombre": "FERNANDEZ RICARDO",
+    "dni": "12231142",
+    "carnet": "128"
+  },
+  {
+    "id": 211,
+    "apellido_nombre": "FERNANDEZ DANIEL",
+    "dni": "12605819",
+    "carnet": "185"
+  },
+  {
+    "id": 212,
+    "apellido_nombre": "FORTELLI JORGE",
+    "dni": "16455293",
+    "carnet": "211"
+  },
+  {
+    "id": 213,
+    "apellido_nombre": "FORTELLI HECTOR",
+    "dni": "17673758",
+    "carnet": "213"
+  },
+  {
+    "id": 214,
+    "apellido_nombre": "GALLARDO ADRIAN",
+    "dni": "14852962",
+    "carnet": "132"
+  },
+  {
+    "id": 215,
+    "apellido_nombre": "GUAYMAS JORGE",
+    "dni": "16521372",
+    "carnet": "237"
+  },
+  {
+    "id": 216,
+    "apellido_nombre": "GUERRERO DIEGO",
+    "dni": "22121688",
+    "carnet": "574"
+  },
+  {
+    "id": 217,
+    "apellido_nombre": "HIGUERA MARIO",
+    "dni": "16860480",
+    "carnet": "179"
+  },
+  {
+    "id": 218,
+    "apellido_nombre": "LEONI JOSE MARIA",
+    "dni": "14913007",
+    "carnet": "303"
+  },
+  {
+    "id": 219,
+    "apellido_nombre": "MAGALLANES JULIAN",
+    "dni": "17235448",
+    "carnet": "598"
+  },
+  {
+    "id": 220,
+    "apellido_nombre": "MAISTERRENA DANIEL",
+    "dni": "17280398",
+    "carnet": "402"
+  },
+  {
+    "id": 221,
+    "apellido_nombre": "MICHELINI FERNANDO",
+    "dni": "23489565",
+    "carnet": "144"
+  },
+  {
+    "id": 222,
+    "apellido_nombre": "MOSEGUI SILVIO",
+    "dni": "20036662",
+    "carnet": "538"
+  },
+  {
+    "id": 223,
+    "apellido_nombre": "NEUMANN CLAUDIO",
+    "dni": "20531288",
+    "carnet": "186"
+  },
+  {
+    "id": 224,
+    "apellido_nombre": "OCHOA IGNACIO",
+    "dni": "20989466",
+    "carnet": "212"
+  },
+  {
+    "id": 225,
+    "apellido_nombre": "ORTIZ EDUARDO",
+    "dni": "16797196",
+    "carnet": "254"
+  },
+  {
+    "id": 226,
+    "apellido_nombre": "PEDERNERA JOSE",
+    "dni": "22358977",
+    "carnet": "131"
+  },
+  {
+    "id": 227,
+    "apellido_nombre": "ROVEIN NORMAN",
+    "dni": "20561511",
+    "carnet": "183"
+  },
+  {
+    "id": 228,
+    "apellido_nombre": "SALGADO EDGARDO",
+    "dni": "20437859",
+    "carnet": "540"
+  },
+  {
+    "id": 229,
+    "apellido_nombre": "SILVA PABLO",
+    "dni": "21973096",
+    "carnet": "573"
+  },
+  {
+    "id": 230,
+    "apellido_nombre": "VIRGILI LUCAS",
+    "dni": "22215754",
+    "carnet": "537"
+  }
+]
