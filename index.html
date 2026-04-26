@@ -24,7 +24,11 @@ fetch("jugadores.json")
 
     if (jugador) {
       document.getElementById("nombre").textContent = "Nombre: " + jugador.nombre;
-      document.getElementById("dni").textContent = "DNI: " + jugador.dni;
+     const dni = jugador.dni.toString();
+const ultimos = dni.slice(-3);
+const dniParcial = "*".repeat(dni.length - 3) + ultimos;
+
+document.getElementById("dni").textContent = "DNI: " + dniParcial;
       document.getElementById("carnet").textContent = "Carnet: " + jugador.carnet;
       document.getElementById("foto").src = "imagenes/" + jugador.id + ".jpg";
     } else {
