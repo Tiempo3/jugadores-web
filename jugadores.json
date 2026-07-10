@@ -432,6 +432,7 @@
 {"id":661,"nombre":"HERRERO GABRIEL","dni":41099616,"carnet":"605"},
 {"id":660,"nombre":"BELIU MIGUEL","dni":21527713,"carnet":"606"},
 {"id":664,"nombre":"VILLALONGA DANIEL","dni":28063358,"carnet":"607"}, 
-{"id":665,"nombre":"ALVAREZ ROBERTO MARCELO","dni":21604335,"carnet":"608"}, 
+{"id":665,"nombre":"ALVAREZ ROBERTO MARCELO","dni":21604335,"carnet":"608"},
+{"id":681,"nombre":"FERNANDEZ FABIAN","dni":20562570,"carnet":"609"},
 {"id":655,"nombre":"ZANCONI GUILLERMO","dni":20562515,"carnet":"280"}
 ]
