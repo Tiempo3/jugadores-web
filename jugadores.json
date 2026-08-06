@@ -453,5 +453,27 @@
 {"id":688,"nombre":"SALAZAR RAUL","dni":92446730,"carnet":"624"},
 {"id":685,"nombre":"SOSA NESTOR","dni":16731343,"carnet":"619"},
 {"id":686,"nombre":"URSINO GABRIEL","dni":22053194,"carnet":"620"},
+[
+{"id":696,"nombre":"ALEGRIA GUSTAVO","dni":"22315422","carnet":"629"},
+{"id":706,"nombre":"ARAYA HERNANDEZ LUIS","dni":"92097797","carnet":"636"},
+{"id":702,"nombre":"BUSTOS LUIS","dni":"17235391","carnet":"388"},
+{"id":712,"nombre":"CORONEL HORACIO","dni":"21527428","carnet":"642"},
+{"id":704,"nombre":"CORONEL NESTOR","dni":"22537039","carnet":"635"},
+{"id":698,"nombre":"GAUNA JOSE LUIS","dni":"23489330","carnet":"631"},
+{"id":714,"nombre":"GOICOCHEA WALTER","dni":"16206340","carnet":"318"},
+{"id":703,"nombre":"HAUP JULIO","dni":"17279914","carnet":"387"},
+{"id":701,"nombre":"HAWERLISCHEN FAVIO","dni":"20989124","carnet":"634"},
+{"id":713,"nombre":"KUHN LORENZO","dni":"11913880","carnet":"104"},
+{"id":705,"nombre":"LEIVA OSCAR","dni":"20485468","carnet":"637"},
+{"id":699,"nombre":"MAGALLANES CLAUDIO","dni":"21449961","carnet":"632"},
+{"id":709,"nombre":"MEDINA HORACIO","dni":"21717487","carnet":"640"},
+{"id":711,"nombre":"OCAMPO MARCELO","dni":"21504266","carnet":"641"},
+{"id":695,"nombre":"RESLER MIGUEL","dni":"16574374","carnet":"627"},
+{"id":694,"nombre":"ROA CLAUDIO","dni":"21973079","carnet":"628"},
+{"id":708,"nombre":"URIBE ALBERTO","dni":"22734137","carnet":"639"},
+{"id":700,"nombre":"VEROISA VICTOR","dni":"21717245","carnet":"633"},
+{"id":697,"nombre":"VIERA MANUEL","dni":"21526436","carnet":"630"},
+{"id":707,"nombre":"CONTRERAS MANUEL","dni":"22199123","carnet":"638"}
+]
 {"id":655,"nombre":"ZANCONI GUILLERMO","dni":20562515,"carnet":"280"}
 ]
