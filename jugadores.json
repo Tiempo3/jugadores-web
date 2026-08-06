@@ -49,7 +49,7 @@
 {"id":223,"nombre":"NEUMANN CLAUDIO","dni":20531288,"carnet":"186"},
 {"id":224,"nombre":"OCHOA IGNACIO","dni":20989466,"carnet":"212"},
 {"id":225,"nombre":"ORTIZ EDUARDO","dni":16797196,"carnet":"254"},
- {"id":226,"nombre":"PEDERNERA JOSE","dni":22358977,"carnet":"131"},
+{"id":226,"nombre":"PEDERNERA JOSE","dni":22358977,"carnet":"131"},
 {"id":227,"nombre":"ROVEIN NORMAN","dni":20561511,"carnet":"183"},
 {"id":228,"nombre":"SALGADO EDGARDO","dni":20437859,"carnet":"540"},
 {"id":229,"nombre":"SILVA PABLO","dni":21973096,"carnet":"573"},
@@ -453,7 +453,6 @@
 {"id":688,"nombre":"SALAZAR RAUL","dni":92446730,"carnet":"624"},
 {"id":685,"nombre":"SOSA NESTOR","dni":16731343,"carnet":"619"},
 {"id":686,"nombre":"URSINO GABRIEL","dni":22053194,"carnet":"620"},
-[
 {"id":696,"nombre":"ALEGRIA GUSTAVO","dni":"22315422","carnet":"629"},
 {"id":706,"nombre":"ARAYA HERNANDEZ LUIS","dni":"92097797","carnet":"636"},
 {"id":702,"nombre":"BUSTOS LUIS","dni":"17235391","carnet":"388"},
@@ -473,7 +472,6 @@
 {"id":708,"nombre":"URIBE ALBERTO","dni":"22734137","carnet":"639"},
 {"id":700,"nombre":"VEROISA VICTOR","dni":"21717245","carnet":"633"},
 {"id":697,"nombre":"VIERA MANUEL","dni":"21526436","carnet":"630"},
-{"id":707,"nombre":"CONTRERAS MANUEL","dni":"22199123","carnet":"638"}
-]
+{"id":707,"nombre":"CONTRERAS MANUEL","dni":"22199123","carnet":"638"},
 {"id":655,"nombre":"ZANCONI GUILLERMO","dni":20562515,"carnet":"280"}
 ]
