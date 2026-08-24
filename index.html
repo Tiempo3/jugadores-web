@@ -24,6 +24,11 @@
 <p id="dni">DNI: ---</p>
 <p id="carnet">Carnet: ---</p>
 
+<h2>Datos del grupo familiar</h2>
+<p id="eganro">Nro: ---</p>
+<p id="eganom">Nombre: ---</p>
+<p id="egaparen">Parentesco: ---</p>
+
 <img id="foto" width="150">
 
 <script>
@@ -37,12 +42,18 @@ fetch("jugadores.json")
 
     if (jugador) {
       document.getElementById("nombre").textContent = "Nombre: " + jugador.nombre;
-     const dni = jugador.dni.toString();
-const ultimos = dni.slice(-3);
-const dniParcial = "*".repeat(dni.length - 3) + ultimos;
 
-document.getElementById("dni").textContent = "DNI: " + dniParcial;
+      const dni = jugador.dni.toString();
+      const ultimos = dni.slice(-3);
+      const dniParcial = "*".repeat(dni.length - 3) + ultimos;
+
+      document.getElementById("dni").textContent = "DNI: " + dniParcial;
       document.getElementById("carnet").textContent = "Carnet: " + jugador.carnet;
+
+      document.getElementById("eganro").textContent = "Nro: " + jugador.EGAnro;
+      document.getElementById("eganom").textContent = "Nombre: " + jugador.EGAnom;
+      document.getElementById("egaparen").textContent = "Parentesco: " + jugador.EGAparen;
+
       document.getElementById("foto").src = "imagenes/" + jugador.id + ".jpg";
     } else {
       document.getElementById("nombre").textContent = "Jugador no encontrado";
