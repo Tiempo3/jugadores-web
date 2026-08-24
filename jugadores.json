@@ -383,7 +383,7 @@
 {"id":612,"nombre":"FERNANDEZ GERARDO","dni":16968939,"carnet":"513"},
 {"id":613,"nombre":"FUENTEALBA ENRIQUE","dni":11444958,"carnet":"514"},
 {"id":614,"nombre":"GARCIA JUAN JOSE","dni":18611163,"carnet":"515"},
-{"id":615,"nombre":"GARCIA SANTIAGO","dni":20220654,"carnet":"289"},
+{"id":615,"nombre":"GARCIA SANTIAGO","dni":20220654,"carnet":"289","EGAnro":"2916431327","EGAnom":"MIRTA","EGAparen":"ESPOSA"},
 {"id":616,"nombre":"JALIF HECTOR","dni":13796251,"carnet":"516"},
 {"id":617,"nombre":"LASCANO OSVALDO","dni":18346967,"carnet":"517"},
 {"id":618,"nombre":"LOPEZ MAURICIO","dni":21442671,"carnet":"518"},
