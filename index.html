@@ -49,11 +49,17 @@ fetch("jugadores.json")
 
       document.getElementById("dni").textContent = "DNI: " + dniParcial;
       document.getElementById("carnet").textContent = "Carnet: " + jugador.carnet;
-      document.getElementById("eganro").innerHTML =
-        'Nro: <a href="tel:' + jugador.EGAnro + '">' + jugador.EGAnro + '</a>';
-      
-      document.getElementById("eganom").textContent = "Nombre: " + jugador.EGAnom;
-      document.getElementById("egaparen").textContent = "Parentesco: " + jugador.EGAparen;
+      if (jugador.EGAnro) {
+  document.getElementById("eganro").innerHTML =
+    'Nro: <a href="tel:' + jugador.EGAnro + '">' + jugador.EGAnro + '</a>';
+
+  document.getElementById("eganom").textContent = "Nombre: " + jugador.EGAnom;
+  document.getElementById("egaparen").textContent = "Parentesco: " + jugador.EGAparen;
+} else {
+  document.getElementById("eganro").textContent = "Datos no registrados";
+  document.getElementById("eganom").textContent = "";
+  document.getElementById("egaparen").textContent = "";
+}
 
       document.getElementById("foto").src = "imagenes/" + jugador.id + ".jpg";
     } else {
