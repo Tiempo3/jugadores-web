@@ -49,8 +49,9 @@ fetch("jugadores.json")
 
       document.getElementById("dni").textContent = "DNI: " + dniParcial;
       document.getElementById("carnet").textContent = "Carnet: " + jugador.carnet;
-
-      document.getElementById("eganro").textContent = "Nro: " + jugador.EGAnro;
+      document.getElementById("eganro").innerHTML =
+        'Nro: <a href="tel:' + jugador.EGAnro + '">' + jugador.EGAnro + '</a>';
+      
       document.getElementById("eganom").textContent = "Nombre: " + jugador.EGAnom;
       document.getElementById("egaparen").textContent = "Parentesco: " + jugador.EGAparen;
 
